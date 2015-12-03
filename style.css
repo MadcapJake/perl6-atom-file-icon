@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'icomoon-camelia';
+	src: url('/home/jrusso/.atom/stylesheets/camelia/icomoon-camelia.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.camelia {
+	font-family: 'icomoon-camelia';
+	font-size: small;
+	text-align: center;
+}
+
+.im-camelia {
+	content: "\e900";
+}
